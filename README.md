@@ -1,6 +1,6 @@
 # PalTube
 
-[Live link](https://limitless-ocean-39156.herokuapp.com/#/)
+[Live link](https://paltubes.herokuapp.com/#/)
 
 ## About
 
